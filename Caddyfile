@@ -1,0 +1,9 @@
+:80
+gzip
+
+log stdout
+errors stdout
+
+templates
+root /var/www
+browse /var/www
