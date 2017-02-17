@@ -1,5 +1,4 @@
 :80
-gzip
 
 log stdout
 errors stdout
